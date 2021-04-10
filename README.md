@@ -1,4 +1,4 @@
-Las versiones anteriores se pueden encontrar cambiando de
+Las versiones anteriores se pueden encontrar en la pestaña "REALASES"
 
 # 1.0
 
